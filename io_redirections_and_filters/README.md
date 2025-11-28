@@ -40,4 +40,5 @@ List of files and their purposes:
 
 19-AZ -> replaces all characters A and c from input to Z and e respectively.
 
-20-
+20-hiago -> removes all letters c and C from input.
+
