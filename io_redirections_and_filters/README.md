@@ -38,4 +38,6 @@ List of files and their purposes:
 
 18-letteronly -> displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 
-19-
+19-AZ -> replaces all characters A and c from input to Z and e respectively.
+
+20-
