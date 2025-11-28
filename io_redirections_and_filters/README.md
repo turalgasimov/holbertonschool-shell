@@ -34,5 +34,6 @@ List of files and their purposes:
 
 16-whatsnext -> displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
-17-
+17-hidethisword -> displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+18
