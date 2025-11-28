@@ -28,3 +28,5 @@ List of files and their purposes:
 
 13-unique -> akes a list of words as input and prints only words that appear exactly once.
 
+14-findthatword -> displays lines containing the pattern “root” from the file /etc/passwd.
+
