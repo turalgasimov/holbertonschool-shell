@@ -45,3 +45,7 @@ List of files and their purposes:
 21-reverse -> reverse its input.
 
 22-users_and_homes -> displays all users and their home directories, sorted by users.
+
+23-empty_cakes -> finds all empty files and directories in the current directory and all sub-directories.
+
+24-
