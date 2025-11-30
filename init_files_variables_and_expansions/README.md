@@ -30,3 +30,5 @@ List of the files and their purposes:
 
 14-decimal_to_hexadecimal -> converts a number from base 10 to base 16.
 
+15-rot13 -> encodes and decodes text using the rot13 encryption. Assume ASCII.
+
