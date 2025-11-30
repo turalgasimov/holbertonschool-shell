@@ -6,5 +6,5 @@ List of the files and their purposes:
 
 2-path -> adds /action to the PATH.
 
-3-
+3-paths -> counts the number of directories in the PATH.
 
