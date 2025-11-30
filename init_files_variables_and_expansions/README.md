@@ -8,3 +8,4 @@ List of the files and their purposes:
 
 3-paths -> counts the number of directories in the PATH.
 
+4-global_variables -> lists environment variables.
