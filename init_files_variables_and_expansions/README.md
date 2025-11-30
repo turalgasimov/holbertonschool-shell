@@ -24,3 +24,5 @@ List of the files and their purposes:
 
 11-binary_to_decimal -> converts a number from base 2 to base 10.
 
+12-combinations
+
